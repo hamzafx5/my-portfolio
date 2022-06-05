@@ -15,7 +15,7 @@ export default function Footer() {
 					<BsLinkedin size="26px" color="#0072b1" />
 				</a>
 				<a
-					href="https://github.com/hamzafx5https://github.com/hamzafx5"
+					href="https://github.com/hamzafx5"
 					className="inline-block p-2 hover:bg-black/10 rounded-full"
 				>
 					<BsGithub size="26px" color="#161b22" />
